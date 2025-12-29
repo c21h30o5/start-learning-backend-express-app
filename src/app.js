@@ -9,7 +9,7 @@ const corsOptions = {
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:5175",
-        "https://start-learning-frontend-app.vercel.app/",
+        "https://start-learning-frontend-app.vercel.app",
     ]
 }
 
